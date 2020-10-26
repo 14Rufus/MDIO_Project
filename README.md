@@ -10,3 +10,4 @@ Descrição
 - João Santos [@61mime](https://github.com/61-mime).
 - Luís Sobral [@4breeze](https://github.com/luissobral4).
 - Francisco Andrade [@14rufus](https://github.com/Rufus14).
+- Meriam Khamassi [@46siri](https://github.com/46siri).
