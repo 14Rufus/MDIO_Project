@@ -1,8 +1,6 @@
 # MDIO_Project
 
-# Nome do Projeto
-
-Descrição
+This project was developed in order to better understand the concepts of the discipline of deterministic models of operational research 
 
 # Authors
 
